@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\Newest\Newest\bin\Debug\netcoreapp3.1\Newest.exe
+C:\Users\Asus\source\repos\Newest\Newest\bin\Debug\netcoreapp3.1\Newest.deps.json
+C:\Users\Asus\source\repos\Newest\Newest\bin\Debug\netcoreapp3.1\Newest.runtimeconfig.json
+C:\Users\Asus\source\repos\Newest\Newest\bin\Debug\netcoreapp3.1\Newest.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Newest\Newest\bin\Debug\netcoreapp3.1\Newest.dll
+C:\Users\Asus\source\repos\Newest\Newest\bin\Debug\netcoreapp3.1\Newest.pdb
+C:\Users\Asus\source\repos\Newest\Newest\obj\Debug\netcoreapp3.1\Newest.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Newest\Newest\obj\Debug\netcoreapp3.1\Newest.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Newest\Newest\obj\Debug\netcoreapp3.1\Newest.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Newest\Newest\obj\Debug\netcoreapp3.1\Newest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Newest\Newest\obj\Debug\netcoreapp3.1\Newest.dll
+C:\Users\Asus\source\repos\Newest\Newest\obj\Debug\netcoreapp3.1\Newest.pdb
+C:\Users\Asus\source\repos\Newest\Newest\obj\Debug\netcoreapp3.1\Newest.genruntimeconfig.cache
